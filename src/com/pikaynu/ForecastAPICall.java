@@ -10,7 +10,7 @@ import java.net.URL;
  * Created by Prateek on 5/8/2016.
  */
 class ForecastAPICall {
-    private final String API_KEY = "d3bd84d12403041ab084a8e903a8a576";
+    private final String API_KEY = "YOUR API KEY";
     private double _latitute;
     private double _longitude;
 
